@@ -16,7 +16,7 @@ public class Enterjava {
 		System.setProperty("webdriver.chrome.driver", "G:\\kavya\\chromedriver.exe");
              //ChromeDriver c =new ChromeDriver();
 		WebDriver driver =new ChromeDriver();
-		//driver.get("www.gmail.com");
+		//driver.get("https://www.gmail.com");
 		
 //		WebElement searchtext= driver.findElement(By.name("q"));
 //		searchtext.sendKeys("java");
